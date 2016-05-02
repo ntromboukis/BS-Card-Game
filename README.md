@@ -1,0 +1,1 @@
+This is a working repo containing the card game [Bullshit](https://www.pagat.com/beating/cheat.html) built on Google App Engine.
